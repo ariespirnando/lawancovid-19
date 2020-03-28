@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lawan Covid 19</string>
+    <string name="kasus">Kasus</string>
+    <string name="informasi">Informasi</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="apaituviruscorona">Apa Itu Virus Corona</string>
+    <string name="mengenal">Mengenal</string>
+    <string name="mencegah">Mencegah</string>
+    <string name="mengobati">Mengobati</string>
+    <string name="mengantisipasi">Mengantisipasi</string>
+    <string name="pusatbantuan">Pusat Bantuan</string>
+    <string name="contact1">Jika anda mengalami gejala-gejala seperti ini,</string>
+    <string name="contact2">silahkan hubungi kontak di bawah.</string>
+    <string name="hotline">Hotline</string>
+    <string name="panggil">Panggil</string>
+    <string name="konsultasi">Konsultasi Dokter</string>
+    <string name="rsterdekat">Rumah Sakit Terdekat</string>
+    <string name="defaultkota">DKI Jakarta</string>
+    <string name="updatekasus">Update Kasus Corona</string>
+    <string name="update">Terakhir diupdate 21 Maret 2020</string>
+    <string name="lihatdetail">Lihat Detail</string>
+    <string name="positif">Kasus Positif</string>
+    <string name="sembuh">Sehat</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="sebaran">Peta Sebaran</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
